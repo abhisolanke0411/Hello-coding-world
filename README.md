@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abhijeet Solanke  
 
-🚀 **Aspiring AI Engineer | Conversational AI | LLMs | Workflow Automation**  
+🚀 ** AI Engineer | Conversational AI | LLMs | Workflow Automation**  
 
 I’m a self-taught AI enthusiast who believes in **building from scratch** and learning by doing.  
 From chatbot simulations to workflow automation, I’ve been exploring how **LLMs, agents, and RAG systems** can solve real-world problems.  
