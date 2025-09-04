@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Abhijeet Solanke  
 
-🚀 ** AI Engineer | Conversational AI | LLMs | Workflow Automation**  
+🚀 **AI Engineer | Generative AI & LLM Engineering | Conversational AI | Workflow Automation**  
 
-I’m a self-taught AI enthusiast who believes in **building from scratch** and learning by doing.  
-From chatbot simulations to workflow automation, I’ve been exploring how **LLMs, agents, and RAG systems** can solve real-world problems.  
+I’m a self-taught AI Engineer exploring how **Generative AI, LLMs, and autonomous agents** can power intelligent applications.  
+From **RAG systems** to **multi-agent workflows**, I love building solutions that connect **AI research with real-world impact**.  
 
 ---
 
@@ -14,25 +14,28 @@ From chatbot simulations to workflow automation, I’ve been exploring how **LLM
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)  
 ![LangGraph](https://img.shields.io/badge/LangGraph-4B8BBE?style=for-the-badge&logo=graphql&logoColor=white)  
 ![Vector DB](https://img.shields.io/badge/VectorDB-2E77BC?style=for-the-badge&logo=neo4j&logoColor=white)  
+![LLMs](https://img.shields.io/badge/LLMs-Transformers-orange?style=for-the-badge&logo=openaigym&logoColor=white)  
+![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented%20Generation-blue?style=for-the-badge)  
+![MLOps](https://img.shields.io/badge/MLOps-CICD-green?style=for-the-badge&logo=githubactions&logoColor=white)  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
 
 ---
 
-## 📌 Featured Projects  
+## 📌 Featured Generative AI Projects  
 
 ### 🔹 [LangGraph Chatbot Simulation](#)  
 💬 Multi-agent chatbot simulating **airline refund conversations** with memory + decision-making.  
-**Tech:** LangGraph, LangChain  
+**Tech:** LangGraph, LangChain, LLMs  
 
 ### 🔹 [RAG-powered Knowledge Assistant](#)  
-📖 Retrieval-Augmented Generation pipeline for **domain-specific Q&A**.  
-**Tech:** Vector DB, LLMs, Prompt Engineering  
+📖 Retrieval-Augmented Generation pipeline for **domain-specific Q&A** using vector embeddings.  
+**Tech:** OpenAI/Fireworks LLMs, Vector DB, Prompt Engineering  
 
 ### 🔹 [AI Workflow Automation](#)  
-🤖 Built a system where **multiple LLM agents collaborate** to solve tasks.  
-**Tech:** LangChain Agents, API Orchestration  
+🤖 Multi-agent orchestration system where **LLM-powered agents collaborate** to solve tasks.  
+**Tech:** LangChain Agents, APIs, Generative AI  
 
 ### 🔹 [QC Defect Dashboard (Web App Prototype)](#)  
 📊 React + Node.js tool for **defect reporting and monthly analytics dashboards**.  
@@ -42,14 +45,13 @@ From chatbot simulations to workflow automation, I’ve been exploring how **LLM
 ## 📊 GitHub Stats  
 
 ![Abhijeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhisolanke0411&show_icons=true&theme=tokyonight)  
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhisolanke0411&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 🌟 About Me  
 - 🧩 Non-traditional background (dropped out final year of engineering).  
-- 🔥 Learned AI/ML through **projects, experiments, and persistence**.  
+- 🔥 Hands-on with **Generative AI, LLMs, RAG, and autonomous agent systems**.  
 - 💡 Immediate joiner — open to **internships, full-time, or freelance AI roles**.  
 
 ---
@@ -61,5 +63,4 @@ From chatbot simulations to workflow automation, I’ve been exploring how **LLM
 
 ---
 
-✨ *“Building with curiosity, learning through struggle, and chasing impact with AI.”*
-
+✨ *“Building with curiosity, learning through struggle, and chasing impact with Generative AI & LLMs.”*
